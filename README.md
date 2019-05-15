@@ -1,6 +1,8 @@
 # credit-card-defaulters
 This Python prject describes the implementation and data visualization of 6 supervised machine learning techniques implemented on the kaggle dataset of credit card defaulters.
 
+As the data is huge in terms of calculations i have used google colab and so first few steps are dedicated for setting up cloud environment.
+
 The main scope for this project is to predict the occurence of credit card defaulter based on a customers previous history.
 
 The techniques compared in this file are namely: 
